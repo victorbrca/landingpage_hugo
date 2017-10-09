@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://victorbrca.github.io/"
 languageCode = "en-us"
 title = "Victor Mendonça"
 [params]
@@ -7,10 +7,10 @@ title = "Victor Mendonça"
 
 [[params.social]]
     title = "Personal"
-    url = "https://victorbrca.github.io/"
+    url = "https://victorbrca.github.io/pesonal"
 [[params.social]]
     title = "Professional"
     url = "https://victorbrca.github.io/professional"
 [[params.social]]
     title = "Blog"
-    url = ""
+    url = "https://victorbrca.github.io/blog"
