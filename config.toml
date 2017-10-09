@@ -1,0 +1,16 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Victor Mendonça"
+[params]
+  description = ""
+  mainIcon = "/img/hugo.png"
+
+[[params.social]]
+    title = "Personal"
+    url = "https://victorbrca.github.io/"
+[[params.social]]
+    title = "Professional"
+    url = "https://victorbrca.github.io/professional"
+[[params.social]]
+    title = "Blog"
+    url = ""
