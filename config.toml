@@ -1,4 +1,5 @@
-baseurl = "https://victorbrca.github.io/"
+# baseurl = "https://victorbrca.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Victor Mendonça"
 [params]
