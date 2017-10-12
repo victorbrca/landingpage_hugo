@@ -6,9 +6,9 @@ title = "Victor Mendonça"
   description = ""
   mainIcon = "/img/hugo.png"
 
-[[params.social]]
-    title = "Personal"
-    url = "https://victorbrca.github.io/personal"
+# [[params.social]]
+#     title = "Personal"
+#     url = "https://victorbrca.github.io/personal"
 [[params.social]]
     title = "Professional"
     url = "http://geekit.ca/"
