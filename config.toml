@@ -2,6 +2,7 @@ baseurl = "http://victormendonca.com"
 # baseurl = "/"
 languageCode = "en-us"
 title = "Victor Mendonça"
+theme = "hugo-base-theme-custom"
 [params]
   description = ""
   mainIcon = "/img/hugo.png"

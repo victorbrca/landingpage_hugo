@@ -23,19 +23,12 @@ body {
     text-align: center;
 }
 
-.siteTitle {
-    font-family: 'Arbutus Slab', "Helvetica Neue", "Helvetica", sans-serif !important;
-    font: bold;
-    font-size: 28px;
-    color: white;
-}
-
 
 /* Full Page Image Header Area */
 
 .header {
     display: table;
-    height: 100%;
+    height: 70%;
     width: 100%;
     min-height: 70%;
     position: relative;
