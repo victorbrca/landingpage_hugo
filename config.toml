@@ -1,4 +1,4 @@
-baseurl = "http://victormendonca.com"
+baseurl = "https://victormendonca.com"
 # baseurl = "/"
 languageCode = "en-us"
 title = "Victor Mendonça"
@@ -11,8 +11,11 @@ theme = "hugo-base-theme-custom"
 #     title = "Personal"
 #     url = "https://victorbrca.github.io/personal"
 [[params.social]]
-    title = "Professional"
-    url = "http://geekit.ca/"
+    title = "Professional Site"
+    url = "https://geekit.ca/"
 [[params.social]]
-    title = "Blog"
-    url = "http://blog.victormendonca.com"
+    title = "Manhattan Blog"
+    url = "https://manhattan.victormendonca.com"
+[[params.social]]
+    title = "Technical Blog"
+    url = "https://blog.victormendonca.com"
